@@ -1,0 +1,41 @@
+.my-primary {
+  color: white;
+  background-color: rgb(97, 153, 178);
+}
+
+
+.my-primary a {
+  color: white; 
+}
+
+.my-primary a:hover, .my-primary a:focus {
+  color: rgb(255, 251, 157);
+}
+
+.my-primary h1,
+.my-primary h2,
+.my-primary h3,
+.my-primary h4,
+.my-primary h5,
+.my-primary h6 {
+  color: rgb(178, 96, 107);
+}
+
+.my-secondary {
+  color: rgb(255,251,157);
+  background-color: rgb(178,96,107);
+}
+
+.my-secondary a {
+  color: rgb(97, 153, 178)
+
+}
+
+.my-secondary a:hover a:focus {
+  color: white;
+}
+
+.bg-light {
+
+  color: rgb(97, 153, 178)
+}
