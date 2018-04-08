@@ -3,7 +3,6 @@
   background-color: rgb(97, 153, 178);
 }
 
-
 .my-primary a {
   color: white; 
 }
@@ -36,6 +35,23 @@
 }
 
 .bg-light {
-
   color: rgb(97, 153, 178)
+}
+
+.eho-image, .fdic-image {
+  height: 3%;
+  width: 3%;
+}
+
+.footer-copyright {
+  text-transform: uppercase;
+}
+
+.footer-copyright a {
+  color: white;
+}
+
+.footer-copyright a:hover, .footer-copyright a:focus {
+  color: rgb(255,251,157);
+  text-decoration: none;
 }
